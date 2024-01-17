@@ -22,7 +22,6 @@ RPI-GGCN: Prediction of RNA-protein interaction based on interpretability gated 
 **Feature_selection:
  * ALL_select is the implementation of all feature selection methods used in this work, among which LLE,LASSO,SE,MDS,LR,OMP,TSVD,GINI,LGBM,IG,MRMD,Co-VAE.
 
-
 **Classifier:
  * RPI-GGCN_model.py is the implementation of our model in this work.
  * classical classifier is the implementation of classical classifierS compared in this work, among which RF,SVM,MLP,ET,AdaBoost,KNN.
